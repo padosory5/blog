@@ -2,7 +2,7 @@
 layout: post
 title: 변수
 tags: [test, blog]
-image: '/images/java-logo.png'
+image: '/images/java-logo.jpg'
 ---
 변수
 =============
