@@ -2,7 +2,7 @@
 layout: post
 title: Git 명령어
 tags: [test, blog]
-image: '/images/git_logo.png'
+image: '/images/git-logo.png'
 ---
 ## 새로운 저장소 만들기
 폴더를 하나 만들고 그아래 다음과 같은 명령어를 실행시켜주면 된다
