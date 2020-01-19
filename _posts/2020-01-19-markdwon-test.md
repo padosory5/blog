@@ -12,7 +12,7 @@ image: ''
 int a;
 String b;
 ```
-##변수명
+## 변수명
 변수명은 프로그래머가 원하는대로 이름을 지을수가 있다.
 단, 몇가지 규칙이 있다
 * 변수명은 숫자로 시작할 수 없다.
@@ -24,7 +24,7 @@ int 1st;
 int a#;
 int class;
 ```
-##자료형
+## 자료형
 변수명 앞의 int, String 등은 변수의 자료형(Type)을 뜻한다.
 
 int 는 정수값만 담을수 있다
@@ -41,7 +41,7 @@ StringBuffer
 List
 Map
 ```
-##변수에 값을 대입하기
+## 변수에 값을 대입하기
 다음과 같이 변수 선언후 값을 대입할수 있다
 ```
 int a;
@@ -61,7 +61,7 @@ String b = "hi"
 ```
 Type mismatch: cannot convert from String to int
 ```
-###사용자 정의 자료형
+### 사용자 정의 자료형
 예를 들어 talk 이라는 클래스를 만들면
 ```
 class talk{
