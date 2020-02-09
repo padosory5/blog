@@ -8,12 +8,10 @@ image: '/images/Webp.net-resizeimage.jpg'
 ## 첫번째
 위에 window 를 누른 다음에 Perspective -> open perspective -> other...
 Other 에 들어가면 Git 을 찾아서 누르면 된다
-
-<img src="../images/git1.jpg">
-<img src="./images/git1.jpg">
-<img src="/images/git1.jpg">
-![Image of Yaktocat]("/images/git1.jpg")
-![Image of Yaktocat](/images/git1.jpg)
+/blog/images/Webp.net-resizeimage.jpg
+<img src="/blog/images/git1.jpg">
+![Image of Yaktocat]("/blog/images/git1.jpg")
+![Image of Yaktocat](/blog/images/git1.jpg)
 
 
 ## 두번째
