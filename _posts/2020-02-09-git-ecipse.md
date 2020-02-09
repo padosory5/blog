@@ -11,7 +11,7 @@ image: '/images/Webp.net-resizeimage.jpg'
 
 ## 두번째
 Git 을 누른다
-<img src="/blog/images/git2.jpg" width="500" height="333">
+<img src="/blog/images/git2.jpg" width="250" height="333">
 
 ## 세번째
 자신의 프로젝트를 오른쪽 클릭을 하고 team -> share project 를 한다
