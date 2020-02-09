@@ -8,6 +8,8 @@ image: '/image/Webp.net-resizeimage.jpg'
 ## 첫번째
 위에 window 를 누른 다음에 Perspective -> open perspective -> other...
 Other 에 들어가면 Git 을 찾아서 누르면 된다
+
+![이미지 이름](/image/push.jpg)
 ## 두번째
 Git 에 들어가면 3가지 항목이 뜨는데 그중에서 Clone a Git repository 을 누르면 된다
 Clone a Git repository 를 누르면 2가지 항목이 뜨는데 그중에서 Clone URI 를 누르면 된다
