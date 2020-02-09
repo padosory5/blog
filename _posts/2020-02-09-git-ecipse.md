@@ -11,7 +11,7 @@ image: '/images/Webp.net-resizeimage.jpg'
 
 ## 두번째
 Git 을 누른다
-<img src="/blog/images/git2.jpg">
+<img src="/blog/images/git2.jpg" width="500" height="333">
 
 ## 세번째
 자신의 프로젝트를 오른쪽 클릭을 하고 team -> share project 를 한다
@@ -33,7 +33,7 @@ share 를 누르고 repository 를 골라준다
 commit 을 해준다음 프로젝트를 우클릭하고 team -> push branch master 를 해준다
 <img src="/blog/images/git7.jpg">
 
-## 여덜번째
+## 여덟번째
 branch master 를 해주고 다음으로 넘어간다
 <img src="/blog/images/git8.jpg">
 
