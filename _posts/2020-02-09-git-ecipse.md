@@ -10,6 +10,11 @@ image: '/images/Webp.net-resizeimage.jpg'
 Other 에 들어가면 Git 을 찾아서 누르면 된다
 
 <img src="../images/git1.jpg">
+<img src="./images/git1.jpg">
+<img src="/images/git1.jpg">
+![Image of Yaktocat]("/images/git1.jpg")
+![Image of Yaktocat](/images/git1.jpg)
+
 
 ## 두번째
 Git 에 들어가면 3가지 항목이 뜨는데 그중에서 Clone a Git repository 을 누르면 된다
