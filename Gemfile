@@ -5,3 +5,4 @@ gem 'jekyll', '~> 4.0'
 gem 'jekyll-paginate'
 gem 'jekyll-tagging'
 gem "kramdown", ">= 2.3.0"
+gem "rexml", ">= 3.2.5"
